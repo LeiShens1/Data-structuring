@@ -1,0 +1,6 @@
+﻿  LinkNode.cpp
+C:\Users\18468\Documents\数据结构\Data Structuring Experiment\Project1\LinkNode.cpp(240,4): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  app.cpp
+C:\Users\18468\Documents\数据结构\Data Structuring Experiment\Project1\app.cpp(43,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\18468\Documents\数据结构\Data Structuring Experiment\Project1\x64\Debug\Project1.exe
